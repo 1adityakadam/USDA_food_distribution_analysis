@@ -22,12 +22,14 @@ This project analyzes the USDA Food and Nutrition Service's food distribution pr
 
 ## Data Source:
 
-<a href='https://www.fns.usda.gov/research/usda-foods-state-origin-usda-foods#:~:text=The%20data%20files%20include%20the,product%20was%20grown%20or%20raised'> State of Origin for USDA Foods </a>
+<a href='https://www.fns.usda.gov/research/usda-foods-state-origin-usda-foods#:~:text=The%20data%20files%20include%20the,product%20was%20grown%20or%20raised'> State of Origin for USDA Foods 
+</a>
 
-
+<a href='https://www.fns.usda.gov/research/usda-foods-state-origin-usda-foods#:~:text=The%20data%20files%20include%20the,product%20was%20grown%20or%20raised'> 
 <img width=350 src='https://github.com/user-attachments/assets/ae49db5b-680a-4b5a-89fb-dfe875c7a772'> 
-
 <img width=400 src='https://github.com/user-attachments/assets/3a6ffdb1-9d44-458f-941f-ba22b2f496ac'>
+
+</a>
 
 ## Purpose
 
