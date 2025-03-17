@@ -78,6 +78,7 @@ Total Variety of Goods Purchased: Number of unique product categories purchased.
 
 ## Data Cleaning: 
 <a href='https://github.com/1adityakadam/usda_food_distribution_analysis/blob/main/USDA_data_analysis.ipynb'> USDA_data_analysis Jupyter Notebook </a>
+
 Preprocessed using Python's pandas library to ensure accuracy and usability.
 
 
