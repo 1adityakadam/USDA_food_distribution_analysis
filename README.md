@@ -12,13 +12,10 @@ Problem statement:
 
 # USDA Top Seller and Slow Mover Goods Tableau Visualization
 
-<div style="text-align: center;">
-  
-  <a href="https://public.tableau.com/app/profile/1adityakadam/viz/USDATopSellerandSlowMoverGoods/USDADashboard">
-    
-![usda_viz](https://github.com/user-attachments/assets/6ecc58d8-5453-421a-a2f7-6e33c62b04bc)
+<a href="https://public.tableau.com/app/profile/1adityakadam/viz/USDATopSellerandSlowMoverGoods/USDADashboard">
+<img width=800 src='https://github.com/user-attachments/assets/6ecc58d8-5453-421a-a2f7-6e33c62b04bc'>
  </a>
-</div>
+
 
 ## Overview
 This project analyzes the USDA Food and Nutrition Service's food distribution programs, focusing on the State of Origin data for USDA Foods products. The analysis spans FY11 to FY23, providing insights into purchasing trends and highlighting where products were processed and packaged. While the data does not specify where products were grown or raised, it offers valuable information to support local agricultural markets.
