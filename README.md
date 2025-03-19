@@ -12,8 +12,11 @@ Problem statement:
 
 # USDA Top Seller and Slow Mover Goods Tableau Visualization
 
+<br>
+
 <a href="https://public.tableau.com/app/profile/1adityakadam/viz/USDATopSellerandSlowMoverGoods/USDADashboard">
 <img width=800 src='https://github.com/user-attachments/assets/6ecc58d8-5453-421a-a2f7-6e33c62b04bc'>
+ (Click to open -> Tableau)
  </a>
 
 
